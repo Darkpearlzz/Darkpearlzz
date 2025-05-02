@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Rhoda Ugboro</h1>
+<h3 align="center">💻 Front-End Developer | Turning Code Into Beautiful, Functional Web Experiences</h3>
 
-<!--
-**Darkpearlzz/Darkpearlzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&width=450&lines=Front-End+Developer;Creative+Problem+Solver;Lifelong+Learner+%F0%9F%93%9A;User+Experience+Advocate" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩🏽‍💻 About Me
+
+I’m currently a learner in the **ALX Front-End Developer Program**, where I’m mastering modern web development to build accessible, user-first digital solutions.
+
+My journey into tech began with a passion for **designing and solving problems**—today, that passion fuels my desire to create seamless user experiences through functional, beautiful websites and applications.
+
+- 🌱 Constantly learning and growing through hands-on projects  
+- 💡 Focused on clean, scalable code and responsive design  
+- 🤝 Open to collaboration, mentorship, and real-world challenges
+
+---
+
+### 🛠️ Tech Stack
+
+```html
+Languages: HTML5, CSS3, JavaScript  
+Frameworks/Libraries: React, Tailwind CSS  
+Tools: Git & GitHub, VS Code, Chrome DevTools  
+Design: Figma, Canva  
