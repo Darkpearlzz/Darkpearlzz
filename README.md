@@ -24,10 +24,11 @@ My journey into tech began with a passion for **helping people and solving probl
 ### 🛠️ Tech Stack
 
 ```html
-Languages: HTML5, CSS3, JavaScript  
+Languages: HTML5, CSS3, JavaScript
 Frameworks/Libraries: React, Tailwind CSS  
 Tools: Git & GitHub, VS Code, Chrome DevTools  
-Design: Figma, Canva  
+Design: Figma, Canva
+
 📁 Projects
 Here are some of the projects I’ve been working on:
 
