@@ -13,7 +13,7 @@
 
 I’m currently a learner in the **ALX Front-End Developer Program**, where I’m mastering modern web development to build accessible, user-first digital solutions.
 
-My journey into tech began with a passion for **helping people and solving problems**—today, that passion fuels my desire to create seamless user experiences through functional, beautiful websites and applications.
+My journey into tech began with a passion for **designing and solving problems**—today, that passion fuels my desire to create seamless user experiences through functional, beautiful websites and applications.
 
 - 🌱 Constantly learning and growing through hands-on projects  
 - 💡 Focused on clean, scalable code and responsive design  
