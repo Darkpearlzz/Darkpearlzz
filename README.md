@@ -37,15 +37,6 @@ CareerLink Wireframe	Wireframing of a mobile app for job creation, training and 
 
 🚧 More projects coming soon as I level up my skills!
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Darkpearlzz&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p>
-🤝 Connect With Me
-💼 LinkedIn
-
-🌐 Portfolio
-
-✉️ Email me: rhodaugboro@gmail.com
-
 🔭 What’s Next?
 I'm diving deeper into:
 
