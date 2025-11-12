@@ -11,7 +11,7 @@
 
 ### 👩🏽‍💻 About Me
 
-I’m currently a learner in the **ALX Front-End Developer and Back-End Developer Program**, where I’m mastering modern web development to build accessible, user-first digital solutions.
+I’m currently an intern at the **ALX Front-End Developer and Back-End Developer Program**, where I’m mastering modern web development to build accessible, user-first digital solutions.
 
 My journey into tech began with a passion for **designing and solving problems**—today, that passion fuels my desire to create seamless user experiences through functional, beautiful websites and applications.
 
