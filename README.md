@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhoda Ugboro</h1>
-<h3 align="center">💻 Front-End Developer |🛡️ Aspiring Cybersecurity Analyst | Building Secure, User-Centered Web Applications</h3>
+<h3 align="center">💻 Front-End Web Developer |🛡️ Aspiring Cybersecurity Analyst | Building Secure, User-Centered Web Applications</h3>
 
 ---
 
